@@ -1,2 +1,2 @@
-name = 'Itserge1'
+name = 'Itserge'
 env_name = "branch name"
